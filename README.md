@@ -7,12 +7,10 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-- [Book an audit](#smart-contract-security-reviews--engagements)
-- [Smart Contract Security Reviews / Engagements]()
+- [Book an audit](#book-an-audit)
+- [Smart Contract Security Reviews / Engagements](#smart-contract-security-reviews--engagements)
 - [Contacts](#contacts)
-- [Testimonials](#testimonials)
 - [Review Process](#review-process)
-- [FAQ](#faq)
 
 ## Introduction
 
