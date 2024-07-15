@@ -65,8 +65,18 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 
 ## Contacts
 
-## Testimonials
+If you have any questions or are seeking a security review for your project, feel free to contact us at:
+
+ - Twitter - [MaslarovK](https://x.com/MaslarovK) / [radev_eth](https://x.com/radev_eth)
+ - Telegram - [MaslarovK](https://t.me/maslarovk) / [radev_eth](https://t.me/radev_eth)
 
 ## Review Process
 
-## FAQ
+1. Pre-audit review:
+  - A pre-audit review encompassing potential enhancements, code optimizations, and additional insights.
+2. In-Depth Security Assessment:
+  - An exhaustive and methodical security review of all in-scope assets. resulting in an audit report. This report serves as a roadmap, offering clear and actionable recommendations to fortify the overall system's resilience.
+3. Risk Mitigation Effectiveness Review:
+  - A thorough and systematic post-fix review is conducted to ensure that any identified vulnerabilities have been successfully addressed and that the applied fixes align with best practice standards for security.
+4. Security Strategy Optimization:
+  - Offering post-audit advice for continuously improving security measures, promptly addressing new vulnerabilities, and conducting thorough evaluations.
