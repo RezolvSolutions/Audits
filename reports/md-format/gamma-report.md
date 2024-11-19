@@ -1,4 +1,4 @@
-# Curvance - Findings Report
+# Gamma Strategies - Findings Report
 
 # Table of contents
 - ## [Contest Summary](#contest-summary)
