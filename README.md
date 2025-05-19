@@ -16,7 +16,7 @@
 
 As a top-notch firm specializing in smart contract security, we provide comprehensive auditing services to DeFi protocols. Our proven track record includes collaborations with protocols managing millions in TVL.
 
-Having conducted over 30 security audits, we consistently strive to exceed protocol expectations by delivering top-quality security assessments.
+Having conducted over 40 security audits, we consistently strive to exceed protocol expectations by delivering top-quality security assessments.
 
 ## Book an audit
 
